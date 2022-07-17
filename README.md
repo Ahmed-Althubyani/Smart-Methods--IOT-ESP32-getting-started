@@ -1,2 +1,4 @@
-# Smart-Methods--IOT-ESP32-getting-started
-1- Download Arduino IDE 
+# Smart-Methods-internship-IOT-week-2
+This is the work of week 2 of the internship for internet of things track which include:  
+1- A website that use speech to text recognition  
+2- A step by step disciption of how to start using ESP32
